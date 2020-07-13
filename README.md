@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there
 
-<!--
-**Nemrtvej/Nemrtvej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am computer enthusiast from the Czech Republic.
 
-Here are some ideas to get you started:
+I know a little bit about PHP, Python, SQL, git and maaaybe Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working for Spaceflow.io
+
+My social networks:
+
+- https://twitter.com/nemrtvej
+- https://facebook.com/nemrtvej
+
+
+Fun fact? I despise emojis.
