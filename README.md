@@ -11,5 +11,3 @@ My social networks:
 - https://twitter.com/nemrtvej
 - https://facebook.com/nemrtvej
 
-
-Fun fact? I despise emojis.
